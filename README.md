@@ -10,14 +10,15 @@ Following are the attributes of the data:
    3.Product  
    4.Discount Band  
    5.Units Sold  
-   6.Manufacturing Price  	
-   7.Sale Price  	
-   8.Gross Sales  	
-   9.Discounts  	  
-   10.Sales  	
-   11.COGS  	
-   12.Profit  	
+   6.Manufacturing Price  
+   7.Sale Price  
+   8.Gross Sales  
+   9.Discounts  
+   10.Sales  
+   11.COGS  
+   12.Profit  
    13.Date  
+   
    
   
 
