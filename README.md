@@ -1,7 +1,7 @@
 # Sales_Dashboard
 Financial Sales Interactive dashboard implemented by using dash plotly and deployed the app to heroku 
 
-Financial Sales Dashboard URL: https://financial-sales-dashboard.herokuapp.com/
+(You can see the dashboard) Financial Sales Dashboard URL: https://financial-sales-dashboard.herokuapp.com/
 
 ## About Dataset
 
