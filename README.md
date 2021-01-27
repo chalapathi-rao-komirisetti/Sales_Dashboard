@@ -1,6 +1,8 @@
 # Sales_Dashboard
 Financial Sales Interactive dashboard implemented by using dash plotly and deployed the app to heroku 
 
+Financial Sales Dashboard URL: https://financial-sales-dashboard.herokuapp.com/
+
 ## About Dataset
 
 The dataset is basically have information about products which are sold in different countries to different segments.
