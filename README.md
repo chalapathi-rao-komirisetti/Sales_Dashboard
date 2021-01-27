@@ -5,7 +5,7 @@ Financial Sales Interactive dashboard implemented by using dash plotly and deplo
 
 The dataset is basically have information about products which are sold in different countries to different segments.
 Following are the attributes of the data:
-  1.Segment	
+  1.Segment\	
   2.Country	 
   3.Product 	 
   4.Discount Band 	
